@@ -38,7 +38,7 @@ function About() {
         <div className="grid grid-cols sm:gap-6 lg:gap-8">
           <img
             src={img}
-            className="rounded-xl"
+            className="rounded-xl mx-auto item-conter"
             alt='me'
             width="80%"
           />
